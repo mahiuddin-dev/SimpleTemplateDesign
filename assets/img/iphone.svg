@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265.174" height="563.068" viewBox="0 0 265.174 563.068">
+  <g id="iphone-x-wire" transform="translate(-765.5 -128.926)">
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(765.5 128.926)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="255.63" height="553.525" rx="38.222" transform="translate(4.772 4.772)" fill="#f8f9fa" opacity="0.94"/>
+      <path id="Tracé_1" data-name="Tracé 1" d="M999.847,691.994H796.327A30.862,30.862,0,0,1,765.5,661.167V159.753a30.861,30.861,0,0,1,30.827-30.827h203.52a30.861,30.861,0,0,1,30.827,30.827V661.167A30.862,30.862,0,0,1,999.847,691.994ZM796.327,138.47a21.307,21.307,0,0,0-21.283,21.283V661.167a21.307,21.307,0,0,0,21.283,21.284h203.52a21.307,21.307,0,0,0,21.283-21.284V159.753a21.307,21.307,0,0,0-21.283-21.283Z" transform="translate(-765.5 -128.926)" fill="#bfdeff"/>
+    </g>
+    <path id="Rectangle_4" data-name="Rectangle 4" d="M0,0H121.072a0,0,0,0,1,0,0V0a18.159,18.159,0,0,1-18.159,18.159H18.159A18.159,18.159,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(843.138 137.966)" fill="#99caff"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="121.072" height="3.023" rx="1.512" transform="translate(843.138 667.386)" fill="#99caff"/>
+    <line id="Ligne_1" data-name="Ligne 1" x1="231.674" y2="533.302" transform="translate(782.063 143.648)" fill="none" stroke="#e8eff7" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Ligne_2" data-name="Ligne 2" x2="231.674" y2="533.302" transform="translate(782.436 143.809)" fill="none" stroke="#e8eff7" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
